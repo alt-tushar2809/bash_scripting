@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Enter Name : "
+echo "Enter Names : "
 read name
 echo "Entered Name : $name"
 
