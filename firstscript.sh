@@ -2,5 +2,6 @@
 
 echo "Enter Name : "
 read name
+echo ""
  
 
