@@ -1,3 +1,4 @@
 #/bin/bash
 echo "Hello World"
-echo $
+echo $bash
+echo $bash
