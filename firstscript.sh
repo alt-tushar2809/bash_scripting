@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo "Enter Names : "
-read name
-echo "Entered Name : $name"
+read name1 name2 name3
+echo " : $name"
 
 
 
