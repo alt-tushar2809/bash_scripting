@@ -2,6 +2,8 @@
 
 echo "Enter Name : "
 read name
-echo ""
+echo "Entered Name : $name"
+
+
  
 
