@@ -6,4 +6,4 @@ echo $HOME
 echo $PWD
 
 
-
+name
