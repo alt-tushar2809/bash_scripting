@@ -2,7 +2,7 @@
 
 echo "Enter Names : "
 read name1 name2 name3
-echo " : $name"
+echo "Names : $name1, "
 
 
 
