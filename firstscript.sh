@@ -7,5 +7,6 @@ echo $PWD
 
 
 name=Tushar
-echo $name
+echo My name is $name
+
 
