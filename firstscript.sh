@@ -6,4 +6,5 @@ echo $HOME
 echo $PWD
 
 
-name
+name=Tushar
+echo $name
