@@ -1,4 +1,4 @@
 #/bin/bash
 echo "Hello World"
-echo $bash
-echo $bash
+echo $BA
+echo $bash_version
